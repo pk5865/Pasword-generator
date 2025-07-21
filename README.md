@@ -1,2 +1,2 @@
-# Pasword-generator
-Created a Python-based Password Generator that takes user input for length and generates secure, random passwords using letters, digits, and special characters. Focused on logic and security.
+# PASSWORD-GENERATOR
+A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password. 
